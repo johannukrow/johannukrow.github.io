@@ -8,8 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>johann.ukrow@yahoo.de</p>
+  more_info:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -18,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm a Master's student in mathematics and computer science at Goethe University Frankfurt.
+I'm a Master's student in mathematics and computer science at Goethe University Frankfurt. Feel free to reach out to me via johann.ukrow@yahoo.de !
