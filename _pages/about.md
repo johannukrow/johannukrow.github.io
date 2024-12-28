@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm a Master's student in mathematics and computer science at Goethe University Frankfurt. Feel free to reach out to me via [johann.ukrow[at]yahoo.de](mailto:johann.ukrow@yahoo.de)!
+I'm a Master's student in mathematics and computer science at Goethe University Frankfurt.
