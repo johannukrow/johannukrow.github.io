@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm a Master's student in mathematics and computer science at Goethe University Frankfurt.
+I'm a PhD student in the group of [Ralf Herbrich](https://hpi.de/herbrich/people/ralf-herbrich.html) at the [Hasso Plattner Institute](https://hpi.de/en/).
