@@ -1,22 +1,17 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Johann Ukrow
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
+    - title: Computer Science PhD
+      institution: Hasso-Plattner-Institute Potsdam, Germany
+      year: now
     - title: Computer Science MSc
       institution: Goethe University Frankfurt, Germany
-      year: now
+      year: 2025
       description:
         - Concentration in machine learning
     - title: Mathematics MSc
       institution: Goethe University Frankfurt, Germany
-      year: now
+      year: 2024
       description:
         - Concentration in probability theory, statistics, and financial mathematics
     - title: Mathematics BSc
@@ -30,18 +25,17 @@
   contents:
     - title: Research Assistant
       institution: Max Planck Institute for Brain Research, Frankfurt, Germany
-      year: 2021 - now
+      year: 2021 - 2025
     
     - title: Teaching Assistant
-      institution: Instutute for Mathematics, Goethe University Frankfurt, Germany
-      year: 2019 - 2023
+      institution: Institute for Mathematics, Goethe University Frankfurt, Germany
       description:
         - Linear Algebra (3x)
         - Mathematics for Computer Science I/II
         - Statistics I/II/III
 
     - title: Research Intern
-      institution: Fraunhofer Institute for Transportation and Infrastructure Systems, Ingolsstadt, Germany
+      institution: Fraunhofer Institute for Transportation and Infrastructure Systems, Ingolstadt, Germany
       year: 2022
 
 # - title: Open Source Projects
