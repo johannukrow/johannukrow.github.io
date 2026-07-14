@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Personal website of Johann Ukrow.">
+  <title>Your Name</title>
+
+  <style>
+    :root {
+      --blue: #0b57d0;
+      --max-width: 680px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #fff;
+      color: var(--blue);
+      font-family: "Courier New", "Nimbus Mono PS", "Liberation Mono", Courier, monospace;
+      font-size: 16px;
+      letter-spacing: 0.02em;
+      line-height: 1.6;
+    }
+
+    main {
+      width: min(calc(100% - 2rem), var(--max-width));
+      margin: 0 auto;
+      padding: 4rem 0;
+    }
+
+    h1,
+    h2,
+    p {
+      margin-top: 0;
+    }
+
+    h1 {
+      margin-bottom: 1rem;
+      font-size: clamp(2rem, 8vw, 4rem);
+      line-height: 1.05;
+    }
+
+    h2 {
+      margin-top: 3rem;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    ul li:not(:last-child) {
+      margin-bottom: 0.75rem;
+    }
+
+    li {
+      position: relative;
+      padding-left: 1.25rem;
+    }
+
+    li::before {
+      content: "-";
+      position: absolute;
+      left: 0;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    footer {
+      margin-top: 4rem;
+      font-size: 0.875rem;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <h2>personal website of Johann Ukrow --- welcome!</h2>
+
+    <h2>resume</h2>
+    <ul>
+      <li>PhD Computer Science — working with <a href="https://herbrich.me/" target="_blank" rel="noopener noreferrer">Ralf Herbrich</a> on probabilistic machine learning at Hasso Plattner Institute.</li>
+      <li>Research Associate — developed computational methods for analyzing cuttlefish chromatophore behavior in <a href="https://brain.mpg.de/laurent" target="_blank" rel="noopener noreferrer">Gilles Laurent's</a> group at the Max Planck Institute for Brain Research.</li>
+      <li>Msc Mathematics — studied mathematics with a focus on probability theory and statistics; worked on statistical analysis of ungulate sleep behavior with <a href="https://www.math.uni-frankfurt.de/~schneide/" target="_blank" rel="noopener noreferrer">Gaby Schneider</a> at Goethe University.</li>
+    </ul>
+
+
+    <h2>links</h2>
+    <p>
+        ukrowjohann❀gmail<!--.example-->.com
+    </p>
+    <a href="https://scholar.google.com/citations?hl=de&user=cEcIxncAAAAJ">google scholar</a>
+  </main>
+</body>
+</html>
